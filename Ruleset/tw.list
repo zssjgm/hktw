@@ -1,5 +1,5 @@
 # 内容：TWTV
-# 数量：33条
+# 数量：39条
 DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,livednow.com
@@ -33,3 +33,8 @@ DOMAIN-SUFFIX,gamer.com.tw
 DOMAIN-SUFFIX,gamer-cds.cdn.hinet.net
 DOMAIN-SUFFIX,gamer2-cds.cdn.hinet.net
 DOMAIN-SUFFIX,video.friday.tw
+DOMAIN,bahamut.akamaized.net
+DOMAIN,gamer-cds.cdn.hinet.net
+DOMAIN,gamer2-cds.cdn.hinet.net
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,gamer.com.tw
