@@ -1,10 +1,11 @@
 # 内容：TWTV
 # 数量：40条
 DOMAIN-SUFFIX,4gtv.tv
-DOMAIN-SUFFIX,4g-tv.tv
-DOMAIN-SUFFIX,4gtvimg2.4gtv.tv
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,ftv.com.tw
 DOMAIN-SUFFIX,hinet.net
-DOMAIN-SUFFIX,cdn.hinet.net
+DOMAIN-SUFFIX,onead.com.tw
+DOMAIN-SUFFIX,4gtvimg2.4gtv.tv
 DOMAIN-SUFFIX,livednow.com
 DOMAIN-SUFFIX,ofiii.com
 DOMAIN-SUFFIX,litv.tv
@@ -18,7 +19,6 @@ DOMAIN-SUFFIX,kfs.io
 DOMAIN-SUFFIX,kktv-theater.kk.stream
 DOMAIN-SUFFIX,kkbox.com
 DOMAIN-SUFFIX,kkbox.com.tw
-DOMAIN-SUFFIX,cdn.hinet.net
 DOMAIN-SUFFIX,hamivideo.hinet.net
 DOMAIN-SUFFIX,scc.ott.hinet.net
 DOMAIN-SUFFIX,litv.tv
