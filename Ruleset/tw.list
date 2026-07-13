@@ -1,6 +1,10 @@
 # 内容：TWTV
 # 数量：46条
 DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,4gtvfreepc-cds.cdn.hinet.net
+DOMAIN-SUFFIX,4gtvfreepcvod-cds.cdn.hinet.net
+DOMAIN-SUFFIX,4gtvpc-cds.cdn.hinet.net
+DOMAIN-SUFFIX,4gtvpcvod-cds.cdn.hinet.net
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,ftv.com.tw
 DOMAIN-SUFFIX,hinet.net
