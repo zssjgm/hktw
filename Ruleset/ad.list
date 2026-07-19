@@ -1,7 +1,6 @@
 # Youtube
-DOMAIN,ads.youtube.com
-DOMAIN,youtubei.googleapis.com
+DOMAIN-SUFFIX,ads.youtube.com
+DOMAIN-SUFFIX,youtubei.googleapis.com
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googlesyndication.com
-DOMAIN-KEYWORD,pagead2
